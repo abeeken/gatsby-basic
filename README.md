@@ -7,6 +7,7 @@ This is a super basic starting point for Gatsby that has:
 * a main stylesheet
 * gatsby-image support
 * scss support
+* Helmet support
 
 You'll have to BYOB (bring your own blog)
 
